@@ -1,0 +1,12 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "ethers": "^6.11.1",
+    "merkletreejs": "^0.3.11"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-foundry": "^1.1.1",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
